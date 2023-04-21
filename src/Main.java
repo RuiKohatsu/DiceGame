@@ -36,7 +36,6 @@ public class Main {
             } else {
                 System.out.println("結果：同点です");
             }
-            gameCount += 1;
 
             System.out.println("戦歴：" + win + "勝" + lose + "敗\n");
             System.out.println("------------------------------");
